@@ -1,5 +1,5 @@
 # Restaurant Order System - Taller 6 ADS
-Este proyecto implementa un sistema de gestión de pedidos para un restaurante, aplicando una **arquitectura por capas** y principios SOLID, junto con patrones de diseño.
+Este proyecto implementa un sistema de gestión de pedidos para un restaurante, aplicando una arquitectura por capas y principios SOLID, junto con patrones de diseño.
 
 ## Arquitectura del Proyecto
 
