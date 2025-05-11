@@ -3,7 +3,7 @@ Este proyecto implementa un sistema de gestión de pedidos para un restaurante, 
 
 ## Arquitectura del Proyecto
 
-El sistema está estructurado en **tres capas principales**:
+El sistema está estructurado en tres capas principales:
 
 ---
 
@@ -39,7 +39,7 @@ Implementa el almacenamiento en memoria y mecanismos auxiliares.
 
 ---
 
-## 🧪 Pruebas
+## Pruebas
 
 El proyecto incluye pruebas unitarias para validar:
 
@@ -49,7 +49,7 @@ El proyecto incluye pruebas unitarias para validar:
 
 ---
 
-## ✅ Patrones de Diseño Utilizados
+## Patrones de Diseño Utilizados
 
 - **Repository**: separación entre lógica de acceso a datos y lógica de negocio.
 - **Strategy**: implementación flexible de descuentos.
